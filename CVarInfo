@@ -1,0 +1,5 @@
+//Spawning
+server bool SLG_Satya_Spawns 				= true;
+
+//Merchant store filter
+server bool hdm_enable_satya 				= true;

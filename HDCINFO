@@ -1,0 +1,8 @@
+//Spawning
+addSpawnTableSingleEntry => { "tableName": "ShotGunReplaces", "name": "VirSatya", "weight": "2", "persists": "false", "enabled": "#SLG_Satya_Spawns"}
+
+//Ammo
+addAmmoUser => { "ammoName": "HDBattery", "name": "VirSatya" }
+
+//Merchant Store
+newMerchantStoreItem => { "enabled": "#hdm_enable_satya", "type": "weapon", "category": "$MERCH_CAT_SATYA", "item": "VirSatya", "icon": "STYAP0", "displayName": "$MERCH_TAG_SATYA", "basePrice": "180", "flavorText": "$MERCH_FLAVOR_SATYA" }

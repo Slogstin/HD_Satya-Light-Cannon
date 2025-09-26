@@ -1,0 +1,5 @@
+[enu default]
+// Merchant store
+MERCH_CAT_SATYA                  = "Virid Inc.";
+MERCH_TAG_SATYA                  = "''Satya'' 8mm Light Cannon";
+MERCH_FLAVOR_SATYA               = "Conventional ammo is so last year. So how about hardened, concentrated light?";
