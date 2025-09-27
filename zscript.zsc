@@ -60,7 +60,7 @@ class VirSatya:HDHandgun{
 	override string gethelptext(){
 		return
 		WEPHELP_FIRESHOOT
-//		..WEPHELP_ALTRELOAD.."  Quick-Swap (if available)\n"
+		..WEPHELP_ALTRELOAD.."  Quick-Swap (if available)\n"
 		..WEPHELP_RELOAD.."  Reload battery\n"
 		..WEPHELP_MAGMANAGER
 		..WEPHELP_UNLOADUNLOAD
@@ -398,4 +398,5 @@ class HDLightPuffRed:HDSmoke{
 		SATS # -1;
 		wait;
 	}
+
 }
